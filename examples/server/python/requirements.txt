@@ -8,3 +8,4 @@ itsdangerous==0.24
 PyJWT==0.2.1
 requests==2.3.0
 requests-oauthlib==0.4.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
